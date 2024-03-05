@@ -1,4 +1,15 @@
-body{
-   height: 10%;
-   background-color: rgb(28, 6, 78);
+div{
+    background-color: aqua;
+    align-items:center;
+    height: 10vh;
+    
+}
+p{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 10vh;
+    margin: 0px 0px 0px 0px;
+ 
+
 }
