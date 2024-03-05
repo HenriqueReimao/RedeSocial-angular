@@ -1,0 +1,39 @@
+nav{
+  display: flex;
+  align-items: center;
+  list-style: none;
+  height: 80vh;
+}
+a, li{
+  color: aliceblue;
+  text-decoration: none;
+  list-style: none;
+
+}
+ul{
+
+    padding: 20px 20px 20px 0px;
+
+}
+a{
+    display: inline-block;
+    padding: 20px 20px 20px 20px;
+    align-items: center;
+
+
+}
+
+a {
+    display: inline-block;
+    padding: 10px 20px; /* Ajuste o padding conforme necessário */
+    font-size: 16px;   /* Exemplo de tamanho de fonte */
+    text-decoration: none; /* Remover sublinhado padrão */
+    border-radius: 2rem;
+    transition: padding 0.3s ease; /* Adiciona uma transição suave ao padding */
+}
+
+a:hover {
+    background-color: #040722;
+
+    padding-right: 40px; /* Ajuste o valor conforme necessário para expandir para a direita */
+}
